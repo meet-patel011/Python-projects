@@ -1,2 +1,1 @@
-# Python-projects
-Here are some of my small projects that I built in Python.
+In my journey of learning Python, I started by making some of the basic projects which I have shared here.  
